@@ -7,6 +7,6 @@ This homework was done by Kareem Itani
 java 8
 ##
 # Assigment Questions
-1.Put the CSV into a queue so then they can be easily accessed for later parts.
-2.Make a playlist using the queue made earlier.
-3.Make a recently listened to option using a stack to keep track of what a person has listen to previously. 
+1. Put the CSV into a queue so then they can be easily accessed for later parts.
+2. Make a playlist using the queue made earlier.
+3. Make a recently listened to option using a stack to keep track of what a person has listen to previously. 
