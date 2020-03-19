@@ -6,6 +6,7 @@ This homework was done by Kareem Itani
 # Dependencies 
 java 8
 ##
+
 # Assigment Questions
 1. Put the CSV into a queue so then they can be easily accessed for later parts.
 2. Make a playlist using the queue made earlier.
